@@ -1,2 +1,2 @@
 # PrimeNumber01
-checking given number is a prime number or not
+checking given number is a prime number or not in scanner program
